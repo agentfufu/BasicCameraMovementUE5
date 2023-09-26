@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/BP/BP_Camera.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5R/JSG7WDENXESARE10C5OOER.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/FJ/EGPZG3BT2YNFB35HKKJDEN.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/BP/BPI_CameraPosses.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/BP/WI_Viewport.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/BP/BP_CameraShake.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/fufu/Documents/Unreal Projects/Basic_Camera_Movemen/Content/FirstPerson/Input/Actions/IA_Freelook.uasset"
+			]
+		}
+	]
+}
